@@ -42,10 +42,16 @@ const Index = () => {
                     discounts
                   </p>
                   <div className="home__buttons">
-                    <a href="#" className="button">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button"
+                    >
                       Shop Now
                     </a>
-                    <a href="#" className="button--link button--flex">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button--link button--flex"
+                    >
                       Track Record
                       <BiRightArrowAlt className="button__icon" />
                     </a>
@@ -77,10 +83,16 @@ const Index = () => {
                     discounts
                   </p>
                   <div className="home__buttons">
-                    <a href="#" className="button">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button"
+                    >
                       Shop Now
                     </a>
-                    <a href="#" className="button--link button--flex">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button--link button--flex"
+                    >
                       Track Record
                       <BiRightArrowAlt className="button__icon" />
                     </a>
@@ -111,10 +123,16 @@ const Index = () => {
                     In search for cute little puppy, captain Sem has come back.
                   </p>
                   <div className="home__buttons">
-                    <a href="#" className="button">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button"
+                    >
                       Shop Now
                     </a>
-                    <a href="#" className="button--link button--flex">
+                    <a
+                      href="https://github.com/besal101/halloween-react"
+                      className="button--link button--flex"
+                    >
                       Track Record
                       <BiRightArrowAlt className="button__icon" />
                     </a>

@@ -13,7 +13,10 @@ const index = () => {
             it is a very fun international celebration, this celebration comes
             from ancient origins, and is already celebrated by everyone.
           </p>
-          <a href="#" className="button">
+          <a
+            href="https://github.com/besal101/halloween-react"
+            className="button"
+          >
             Know More
           </a>
         </div>

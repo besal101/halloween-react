@@ -8,7 +8,10 @@ const index = () => {
           <h2 className="discount__title">
             50% Discount <br /> On New Products
           </h2>
-          <a href="#" className="button">
+          <a
+            href="https://github.com/besal101/halloween-react"
+            className="button"
+          >
             Go to New
           </a>
         </div>

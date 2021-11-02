@@ -7,7 +7,10 @@ const index = () => {
     <footer className="footer section">
       <div className="footer__container container grid">
         <div className="footer__content">
-          <a href="#" className="footer__logo">
+          <a
+            href="https://github.com/besal101/halloween-react"
+            className="footer__logo"
+          >
             <img src="./img/logo.png" alt="" className="footer__logo" />
             Halloween
           </a>
@@ -15,25 +18,13 @@ const index = () => {
             Enjoy the scariest night <br /> of your life.
           </p>
           <div className="footer__social">
-            <a
-              href="https://facebook.com"
-              target="_blank"
-              className="footer__social-link"
-            >
+            <a href="https://facebook.com" className="footer__social-link">
               <FaFacebook />
             </a>
-            <a
-              href="https://instagram.com"
-              target="_blank"
-              className="footer__social-link"
-            >
+            <a href="https://instagram.com" className="footer__social-link">
               <FaInstagram />
             </a>
-            <a
-              href="https://youtube.com"
-              target="_blank"
-              className="footer__social-link"
-            >
+            <a href="https://youtube.com" className="footer__social-link">
               <FaYoutube />
             </a>
           </div>
@@ -42,17 +33,26 @@ const index = () => {
           <h3 className="footer__title">About</h3>
           <ul className="footer__links">
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 About Us
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Features
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 News
               </a>
             </li>
@@ -62,17 +62,26 @@ const index = () => {
           <h3 className="footer__title">Our Company</h3>
           <ul className="footer__links">
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Blog
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 About us
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Our mission
               </a>
             </li>
@@ -82,17 +91,26 @@ const index = () => {
           <h3 className="footer__title">Our Services</h3>
           <ul className="footer__links">
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Pricing
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Discounts
               </a>
             </li>
             <li>
-              <a href="#" className="footer__link">
+              <a
+                href="https://github.com/besal101/halloween-react"
+                className="footer__link"
+              >
                 Shipping Mode
               </a>
             </li>
@@ -104,7 +122,11 @@ const index = () => {
       </span>
       <img src="./img/footer1-img.png" alt="" className="footer__img-one" />
       <img src="./img/footer2-img.png" alt="" className="footer__img-one" />
-      <a href="#" className="scroll__up" id="scroll-up">
+      <a
+        href="https://github.com/besal101/halloween-react"
+        className="scroll__up"
+        id="scroll-up"
+      >
         <BiUpArrowAlt className="scroll__icon" />
       </a>
     </footer>
